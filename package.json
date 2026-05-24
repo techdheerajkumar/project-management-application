@@ -1,0 +1,25 @@
+{
+  "name": "project-management-application",
+  "version": "1.0.0",
+  "description": "Build a production-style Team Workspace / Project Management Application to improve backend engineering, API creation, authentication, security, database design, and advanced React.js skills.",
+  "main": "index.js",
+  "scripts": {
+    "server" : "nodemon ./backend/src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techdheerajkumar/project-management-application.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/techdheerajkumar/project-management-application/issues"
+  },
+  "homepage": "https://github.com/techdheerajkumar/project-management-application#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
